@@ -1,7 +1,7 @@
 # Coin Flip Game
 In this project, user flips a coin by entering what side they'd like to choose--either heads or tails. If the image returned is the opposite of what they chose, they win. If not, they lose.
 
-![alt tag](images/coin-flip.png)
+![alt tag](https://drive.google.com/uc?export=view&id=1-RClB3n6atxnE4bdqaB1kFbKiyGQTwC4)
 
 ## How It's Made:
 
